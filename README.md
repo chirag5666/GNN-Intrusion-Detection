@@ -1,10 +1,4 @@
-Perfect 👏 since your GitHub push worked — here’s your **final, production-ready `README.md`**, formatted for GitHub display (with icons, structure, and credits).
 
-You can **copy this entire block** into your `README.md` file and push — it’s fully self-contained, professional, and perfectly matches your project.
-
----
-
-```markdown
 # 🧠 Graph Neural Network (GraphSAGE) Based Intrusion Detection System
 
 ### 🔒 Project Overview
@@ -224,13 +218,3 @@ Vellore Institute of Technology, Bangalore
 
 ---
 
-✅ **Next Steps**
-1. Save this as `README.md` in your project folder.  
-2. Push again:
-   ```bash
-   git add README.md
-   git commit -m "Added final professional README"
-   git push origin main
-````
-
-Would you like me to now generate your **`requirements.txt` file (all correct dependency versions)** to complete your GitHub setup?
