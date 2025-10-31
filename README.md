@@ -118,14 +118,6 @@ Then open the displayed URL (e.g., `http://localhost:8501/`) in your browser.
 
 ---
 
-## 🖼️ Visualization Examples
-
-| Normal Traffic Graph                | Attack Traffic Graph                |
-| ----------------------------------- | ----------------------------------- |
-| ![Normal Graph](results/normal.png) | ![Attack Graph](results/attack.png) |
-
-> *Normal graphs exhibit structured communication, while attack graphs show disorganized connections.*
-
 ---
 
 ## 🔬 How It Works
@@ -190,7 +182,7 @@ Then open the displayed URL (e.g., `http://localhost:8501/`) in your browser.
 **Chirag M. V**
 B.Tech – Computer Science (Cyber Security)
 Vellore Institute of Technology, Bangalore
-📧 [[your-email@example.com](mailto:your-email@example.com)]
+📧 [[chiragmv5666@gmail.com](mailto:your-email@example.com)]
 🌐 [https://github.com/chirag5666](https://github.com/chirag5666)
 
 ---
@@ -214,7 +206,5 @@ Vellore Institute of Technology, Bangalore
 
 ---
 
-````
 
----
 
